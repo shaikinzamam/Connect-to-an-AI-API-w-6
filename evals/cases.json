@@ -1,0 +1,34 @@
+[
+  {
+    "text": "I was charged twice for this month's subscription.",
+    "expected_category": "billing"
+  },
+  {
+    "text": "My refund was approved last week but has not arrived.",
+    "expected_category": "billing"
+  },
+  {
+    "text": "The app crashes whenever I attach a screenshot.",
+    "expected_category": "bug"
+  },
+  {
+    "text": "The reset-password link always opens a blank page.",
+    "expected_category": "bug"
+  },
+  {
+    "text": "Please add a dark mode for the dashboard.",
+    "expected_category": "feature"
+  },
+  {
+    "text": "Could you let us export reports as CSV files?",
+    "expected_category": "feature"
+  },
+  {
+    "text": "Where can I find the getting-started documentation?",
+    "expected_category": "other"
+  },
+  {
+    "text": "Something about it does not seem right.",
+    "expected_category": "other"
+  }
+]
